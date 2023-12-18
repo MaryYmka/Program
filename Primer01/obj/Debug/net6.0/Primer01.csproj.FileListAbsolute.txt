@@ -1,0 +1,15 @@
+C:\Users\Mary\Desktop\01\Primer01\bin\Debug\net6.0\Primer01.exe
+C:\Users\Mary\Desktop\01\Primer01\bin\Debug\net6.0\Primer01.deps.json
+C:\Users\Mary\Desktop\01\Primer01\bin\Debug\net6.0\Primer01.runtimeconfig.json
+C:\Users\Mary\Desktop\01\Primer01\bin\Debug\net6.0\Primer01.dll
+C:\Users\Mary\Desktop\01\Primer01\bin\Debug\net6.0\Primer01.pdb
+C:\Users\Mary\Desktop\01\Primer01\obj\Debug\net6.0\Primer01.csproj.AssemblyReference.cache
+C:\Users\Mary\Desktop\01\Primer01\obj\Debug\net6.0\Primer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mary\Desktop\01\Primer01\obj\Debug\net6.0\Primer01.AssemblyInfoInputs.cache
+C:\Users\Mary\Desktop\01\Primer01\obj\Debug\net6.0\Primer01.AssemblyInfo.cs
+C:\Users\Mary\Desktop\01\Primer01\obj\Debug\net6.0\Primer01.csproj.CoreCompileInputs.cache
+C:\Users\Mary\Desktop\01\Primer01\obj\Debug\net6.0\Primer01.dll
+C:\Users\Mary\Desktop\01\Primer01\obj\Debug\net6.0\refint\Primer01.dll
+C:\Users\Mary\Desktop\01\Primer01\obj\Debug\net6.0\Primer01.pdb
+C:\Users\Mary\Desktop\01\Primer01\obj\Debug\net6.0\Primer01.genruntimeconfig.cache
+C:\Users\Mary\Desktop\01\Primer01\obj\Debug\net6.0\ref\Primer01.dll
